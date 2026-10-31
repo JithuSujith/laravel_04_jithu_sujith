@@ -1,5 +1,5 @@
 <x-layout>
-    <x-navbar />
+    
 
     <main class="container my-5">
         <div class="row justify-content-center">
@@ -33,5 +33,5 @@
             </article>
         </div>
     </main>
-    <x-footer/>
+    
 </x-layout>

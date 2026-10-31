@@ -1,5 +1,5 @@
 <x-layout>
-    <x-navbar />
+   
     <main>
         <section>
             <div class="container ">
@@ -33,5 +33,5 @@
 </div>
         </section>
     </main>
-    <x-footer />
+    
 </x-layout>

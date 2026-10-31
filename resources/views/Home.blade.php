@@ -1,6 +1,6 @@
 
 <x-layout>
-    <x-navbar />
+    
 
     <main>
         {{-- Hero image --}}
@@ -137,5 +137,5 @@
             </div>
         </section>
     </main>
-    <x-footer />
+    
 </x-layout>

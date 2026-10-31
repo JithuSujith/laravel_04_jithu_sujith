@@ -12,6 +12,10 @@
 </head>
 
 <body>
+    <header>
+         <x-navbar />
+    </header>
     {{ $slot }}
+    <x-footer />
 </body>
 </html>
